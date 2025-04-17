@@ -11,3 +11,7 @@ Text summarizing tool:
 tools used
 platoforms
 where it can be applicable
+
+output:
+
+![Image](https://github.com/user-attachments/assets/047b140e-5c25-41a3-955f-549f69378c15)
